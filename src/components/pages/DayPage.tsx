@@ -57,7 +57,7 @@ export class DayPage extends React.Component {
               const material = learnings.getForDay(activeDay.day).material;
               return (
                 <Grid>
-                  <h1>{activeDay.day.toString()}</h1>
+                  <h2>{activeDay.day.toString()}</h2>
                   <DayPageNavigation
                     onNext={this.goToNextDay}
                     onPrev={this.goToPreviousDay}

@@ -5,11 +5,11 @@
   "dependencies": {
     "@types/lodash": "^4.14.112",
     "@types/react-bootstrap": "^0.32.11",
-    "bootstrap": "^3.3.7",
-    "lodash": "^4.17.10",
+    "bootstrap": "^3.4.1",
+    "lodash": "^4.17.15",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.12.0",
     "react-scripts-ts": "2.16.0"
   },
   "scripts": {

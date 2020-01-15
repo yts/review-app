@@ -4,7 +4,7 @@ import * as React from "react";
 const AppNavbar = () => (
   <Navbar>
     <Navbar.Header>
-      <Navbar.Brand>Review App</Navbar.Brand>
+      <Navbar.Brand>Daily Review</Navbar.Brand>
     </Navbar.Header>
   </Navbar>
 );
